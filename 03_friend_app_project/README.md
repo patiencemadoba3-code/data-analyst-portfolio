@@ -1,5 +1,5 @@
 # FRIEND App Project
-**Tools & Skills**: App design, problem solving, health-focused tech, planning
+**Tools & Skills**: App design, problem solving, health focused tech, planning
 **Context**: Developed as a finalist in the innovateHER 2025 cohort
 
 FRIEND is a wellness and support app idea I created to help people track and manage their mental and physical health in one simple place.
