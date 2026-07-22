@@ -11,18 +11,18 @@ from typing import List, Dict, Optional
 students = [
     {"id": 1, "name": "Alice", "interests": ["study", "party"], "course": "Math", "friend_type": "study partner"},
     {"id": 2, "name": "Bob", "interests": ["church", "party"], "course": "History", "friend_type": "church friend"},
-    {"id": 3, "name": "Charlie", "interests": ["study", "party"], "course": "Math", "friend_type": "party friend"},
-    {"id": 4, "name": "Diana", "interests": ["study", "church"], "course": "Physics", "friend_type": "study partner"},
+    {"id": 3, "name": "Sicelo", "interests": ["study", "party"], "course": "Math", "friend_type": "party friend"},
+    {"id": 4, "name": "Busi", "interests": ["study", "church"], "course": "Physics", "friend_type": "study partner"},
 ]
 
 counselors = [
     {"id": 1, "name": "Dr. Smith", "type": "psychologist"},
-    {"id": 2, "name": "Mama Zulu", "type": "traditional healer"},
+    {"id": 2, "name": "Gog Zulu", "type": "traditional healer"},
 ]
 
 lecturers = [
     {"id": 1, "name": "Prof. Green", "course": "Math"},
-    {"id": 2, "name": "Dr. Blue", "course": "History"},
+    {"id": 2, "name": "Dr. Madoba", "course": "History"},
 ]
 
 anonymous_questions = []
